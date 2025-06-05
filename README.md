@@ -10,10 +10,12 @@ Welcome to our journey through **Strategy Storm 2025**, a national-level case co
   We aced the preliminary quiz on business fundamentals and strategic reasoning, earning our place in the top-performing teams.
   
 - 🥉 **Round 2 – Case Competition (3rd Place Finish)**  
-  Tackled the case **"Blinkit Customer Churn Analysis"**, blending data-driven insights with innovative retention strategies. Our solutions combined behavioral analytics, smart segmentation, and actionable loyalty levers to help Blinkit retain its customer base.
-  
+  Tackled the case **"Blinkit Customer Churn Analysis"**, blending data-driven insights with innovative retention strategies. Our solutions combined behavioral analytics, smart segmentation, and actionable loyalty levers to help Blinkit retain its customer base.  
+  📎 [Presentation Link](https://github.com/shreespace/Strategy-Storm-2025/blob/main/Round-2/Presentation.pdf)
+
 - 🎯 **Round 3 – Case Competition (Top 20 Nationally)**  
-  Devised a solution for **"Leveraging Alternative Data for Rural Credit Assessment and Inclusive Financial Access"**. Our approach involved using non-traditional data sources (like mobile usage, agri inputs, social networks) to enable better rural credit profiling and enhance financial inclusion.
+  Devised a solution for **"Leveraging Alternative Data for Rural Credit Assessment and Inclusive Financial Access"**. Our approach involved using non-traditional data sources (like mobile usage, agri inputs, social networks) to enable better rural credit profiling and enhance financial inclusion.  
+  📎 [Presentation Link](https://github.com/shreespace/Strategy-Storm-2025/blob/main/Round-3/Presentation.pdf)
 
 ---
 
@@ -26,4 +28,4 @@ Welcome to our journey through **Strategy Storm 2025**, a national-level case co
 
 ---
 
-> From consumer insights to rural fintech innovation, Team Strats explored the spectrum of strategy with passion, research, and purpose. 💡📈
+> From consumer insights to rural fintech innovation, **Team Strats** explored the spectrum of strategy with passion, research, and purpose. 💡📈
