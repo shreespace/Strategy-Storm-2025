@@ -17,20 +17,6 @@ Welcome to our journey through **Strategy Storm 2025**, a national-level case co
 
 ---
 
-## 📂 Folder Structure
-
-- **Round 2 – Blinkit Customer Churn Analysis**
-  - Presentation deck (`.pptx`)
-  - Executive summary or solution document (`.pdf/.docx`)
-  - Any supporting data/models used
-  
-- **Round 3 – Rural Credit & Inclusion**
-  - Final presentation (`.pptx`)
-  - Strategy notes or proposal (`.docx`)
-  - Additional research/materials
-
----
-
 ## 👥 Team Strats
 
 - Kritika Shree  
